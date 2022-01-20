@@ -1,31 +1,59 @@
 # Build News Website With Node.js, Express & EJS - WP Rest API
+Getting Started with Create React App
+This project was bootstrapped with Create React App.
 
-This was created as part of YouTube Video. Links below
+Available Scripts
+In the project directory, you can run:
 
-![GitHub Logo](https://raddy.co.uk/wp-content/uploads/2020/09/nodejs-news-website-rest-api_compressed.jpg)
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
 
-## Installation
-To run this project, install it locally using npm:
+The page will reload when you make changes.
+You may also see any lint errors in the console.
 
-```
-$ npm install
-$ npm start
-```
+npm test
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
 
-### YouTube Video & Article
+npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-[Node.js News Website](https://youtu.be/EkQc-8uzxIA)
+The build is minified and the filenames include the hashes.
+Your app is ready to be deployed!
 
-[Read Article](https://raddy.co.uk/blog/build-news-website-with-node-js-express-ejs-wp-rest-api/)
+See the section about deployment for more information.
 
-### YouTube Channel - RaddyTheBrand
+npm run eject
+Note: this is a one-way operation. Once you eject, you can't go back!
 
-[Subscribe to my YouTube Channel](https://www.youtube.com/channel/UCvXscyQ0cLzPZeNOeXI45Sw?sub_confirmation=1)
+If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
 
-### Website
-[www.raddy.co.uk](https://www.raddy.co.uk)
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-### Donations
-[Via Paypal](https://www.paypal.me/RadoslavAngelov)
+You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-[Buy me a Coffee](https://www.buymeacoffee.com/RaddyTheBrand)
+Learn More
+You can learn more in the Create React App documentation.
+
+To learn React, check out the React documentation.
+
+Code Splitting
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+Analyzing the Bundle Size
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+Making a Progressive Web App
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+Advanced Configuration
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+Deployment
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+npm run build fails to minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
